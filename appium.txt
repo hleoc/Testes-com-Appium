@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = "Pixel_5_API_28"
+app = "/Users/h.costa/dev/bootcamp/mobile/app-debug.apk"
+
